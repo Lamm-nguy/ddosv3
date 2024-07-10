@@ -1,5 +1,6 @@
 Lệnh setup:
 ```
+cd storage/downloads
 apt update
 apt upgrade
 apt install zip git python python-pip perl nodejs
