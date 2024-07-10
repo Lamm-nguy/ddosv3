@@ -3,7 +3,7 @@ Lệnh setup:
 cd storage/downloads
 apt update
 apt upgrade
-apt install zip git python python-pip perl nodejs
+apt install zip git python python3-pip perl nodejs unzip
 pip install requests colored
 git clone https://github.com/Lamm-nguy/ddosv3
 cd ddosv3
