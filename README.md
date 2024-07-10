@@ -10,6 +10,7 @@ cd ddosv3
 unzip ddos3.zip
 cd Thanh3
 ```
+* nếu dùng linux/windows có wsl thì bỏ dòng 1 vì nó chỉ dành cho android
 Lệnh run:
 ```
 python main.py
