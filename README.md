@@ -1,3 +1,6 @@
+Tôi, người cung cấp tool này, sẽ không chịu trách nhiệm về mọi vấn đề pháp lý, những thiệt hại về tài sản do người dùng gây ra.
+
+
 Lệnh setup:
 ```
 cd storage/downloads
